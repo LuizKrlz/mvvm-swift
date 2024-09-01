@@ -11,7 +11,7 @@ import SwiftUI
 struct mvvm_caseApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProfileView()
         }
     }
 }
