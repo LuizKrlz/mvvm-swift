@@ -14,8 +14,9 @@ MyApp is a [SwiftUI](https://developer.apple.com/xcode/swiftui/) application bui
 
 ## Screenshots
 
-![Screenshot1](screenshot1.png)
-![Screenshot2](screenshot2.png)
+| Unfollow    | Follow |
+| -------- | ------- |
+| ![Screenshot1](screenshot1.png)  | ![Screenshot2](screenshot2.png) |
 
 ## Requirements
 
